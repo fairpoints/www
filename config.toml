@@ -19,7 +19,7 @@ theme = "hugo-serif-theme"
     show_services_button = true  # show / hide the "view all services" button
 
   [params.logo]
-    mobile = "images/logo/logo-mobile.svg"
+    mobile = "images/logo/FAIRPoints.logo.svg"
     mobile_height = "36px"
     desktop = "images/logo/logo.svg"
     desktop_height = "36px"
