@@ -1,4 +1,4 @@
-baseURL = "www.example.com"
+baseURL = "/"
 languageCode = "en-us"
 title = "Hugo Serif Theme"
 themesDir = "themes"
@@ -21,8 +21,8 @@ theme = "hugo-serif-theme"
   [params.logo]
     mobile = "images/logo/FAIRPoints.logo.svg"
     mobile_height = "36px"
-    desktop = "images/logo/logo.svg"
-    desktop_height = "36px"
+    desktop = "images/logo/FAIRPoints.logo.svg"
+    desktop_height = "154px"
     alt = "Serif - A Hugo Business Theme"
 
   [params.seo]
