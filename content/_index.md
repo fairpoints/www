@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# FAIR Points. The Greatest Site on Earth.
+# FAIR Points. The FAIRest of them all.
 
 FAIR Points is really really cool.
