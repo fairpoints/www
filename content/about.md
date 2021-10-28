@@ -3,48 +3,17 @@ title: 'About'
 date: 2018-02-22T17:01:34+07:00
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+**FAIRPoint**s- is an event series bringing together people across the research ecosystem to discuss, highlight, and share pragmatic solutions to making FAIR a reality. 
 
-## Ne verba patulosque numen vix libet
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+FAIRPoints in collaboration with <span style="color:blue"> [GoFAIR US](https://www.go-fair.org/)</span>, <span style="color:blue">[SDSC](https://www.sdsc.edu/)</span>, <span style="color:blue">[AGU](https://www.agu.org/)</span>, and <span style="color:blue">[SciLifeLab Data Centre](https://www.scilifelab.se/data)</span> aims to enhance community building and knowledge sharing across diverse **geographic** and **domain areas** in order to cultivate researchers’ engagement in **FAIR** on a global scale.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+## Our main aims are to:
+* Provide a **platform for FAIR conversations** featuring the latest developments from the community
+* Highlight **use-cases and how-to-approaches** addressing FAIR implementation from researchers and research support staff perspectives
+* Capture and share the discussion outcomes in **pragmatic, bite-sized lesson material** with integrated schemas
+* Make FAIR more **accessible** to broader audiences 
+* Explore FAIR practices from a **global** perspective
+ 
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
-
-## Postquam tamen
-
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+This event series will feature the work done around FAIR implementation across our collaborating organizations, cultivate engagement and relationships between researchers **on all levels**, data service providers, policy-, decision makers and organization members in response to rapid scientific progress, as well as foster the development of impactful and more globally connected **FAIR solutions**. 
