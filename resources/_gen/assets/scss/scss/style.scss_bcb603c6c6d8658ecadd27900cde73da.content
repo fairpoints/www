@@ -4361,23 +4361,23 @@ ol {
   overflow: hidden;
   background-color: #FFFFFF;
   border-radius: 4px;
-  width: 100%;
+  width: 50%;
   display: flex;
   align-items: center;
-  flex-direction: row;
+  flex-direction: column;
   flex-wrap: wrap;
   z-index: 2; }
   @media (min-width: 576px) {
     .call {
       align-items: center;
-      flex-direction: row;
+      flex-direction: column;
       flex-wrap: wrap; } }
   .call .call-box-top {
     flex: 1 0 auto;
     padding: 20px; }
   .call .call-box-bottom {
     flex: auto;
-    padding: 20px;
+    padding: 10px;
     border-top: 1px solid #ffcf3e; }
     @media (min-width: 576px) {
       .call .call-box-bottom {
