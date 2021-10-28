@@ -8,7 +8,7 @@ theme = "hugo-serif-theme"
   [module.hugoVersion]
     extended = true
     min = "0.55.0"
-    
+
 [params]
   # In most cases you will only want to use either one of these. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
   google_analytics_id = ""
@@ -22,7 +22,7 @@ theme = "hugo-serif-theme"
     mobile = "images/logo/FAIRPoints.logo.svg"
     mobile_height = "36px"
     desktop = "images/logo/FAIRPoints.logo.svg"
-    desktop_height = "154px"
+    desktop_height = "160px"
     alt = "Serif - A Hugo Business Theme"
 
   [params.seo]

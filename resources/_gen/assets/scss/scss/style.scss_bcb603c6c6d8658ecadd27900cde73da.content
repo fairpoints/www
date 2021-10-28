@@ -14,7 +14,7 @@ html {
   font-family: sans-serif;
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
-  -webkit-tap-highlight-color: rgba(47, 47, 65, 0); }
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
 
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block; }
@@ -27,7 +27,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #ffffff; }
+  background-color: #fff; }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important; }
@@ -101,11 +101,11 @@ sup {
   top: -.5em; }
 
 a {
-  color: #f24088;
+  color: #000000;
   text-decoration: none;
   background-color: transparent; }
   a:hover {
-    color: #d70f60;
+    color: black;
     text-decoration: underline; }
 
 a:not([href]) {
@@ -4013,7 +4013,7 @@ html {
   .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
     width: 36px;
     height: 3px;
-    background-color: #f24088;
+    background-color: #000000;
     border-radius: 3px;
     position: absolute;
     transition-property: transform;
@@ -4049,7 +4049,7 @@ html {
     transform: translate3d(0, -20px, 0) rotate(-90deg); }
 
 a {
-  color: #f24088; }
+  color: #000000; }
 
 p {
   line-height: 26px;
@@ -4099,12 +4099,12 @@ ol {
     flex: 1 0 0; }
 
 .header {
-  color: #f24088;
-  background-color: #ffffff;
+  color: #000000;
+  background-color: #FFFFFF;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border-bottom: 1px solid #f6f7ff;
+  border-bottom: 1px solid #FFFFFF;
   padding: 10px 0px; }
   .header .container {
     display: flex;
@@ -4119,7 +4119,7 @@ ol {
   position: static; }
 
 .footer {
-  background: #f24088;
+  background: #000000;
   padding-top: 15px;
   padding-bottom: 15px; }
   .footer .footer-inner {
@@ -4146,10 +4146,10 @@ ol {
     margin: 0;
     padding: 0; }
     .footer ul li {
-      color: #ffffff;
+      color: #FFFFFF;
       font-size: 1rem; }
       .footer ul li a {
-        color: #ffffff;
+        color: #FFFFFF;
         text-decoration: none;
         padding: 12px 14px 12px 0;
         display: block; }
@@ -4176,8 +4176,8 @@ ol {
             height: 40px;
             padding: 10px 8px 10px 8px; } }
 .sub-footer {
-  background: #ef106a;
-  color: #ffffff;
+  background: black;
+  color: #FFFFFF;
   padding-top: 15px;
   padding-bottom: 15px; }
   @media (min-width: 768px) {
@@ -4237,7 +4237,7 @@ ol {
         display: inline-block;
         font-weight: normal;
         text-decoration: none;
-        color: #f24088; }
+        color: #000000; }
         .main-menu > ul > li > a:hover {
           text-decoration: underline; }
       .main-menu > ul > li.active > a {
@@ -4249,7 +4249,7 @@ ol {
 
 .main-menu-mobile {
   position: fixed;
-  background: #f24088;
+  background: #000000;
   top: 0;
   left: 0;
   width: 100%;
@@ -4326,7 +4326,7 @@ ol {
   .hamburger .hamburger-inner,
   .hamburger .hamburger-inner::before,
   .hamburger .hamburger-inner::after {
-    background: #f24088; }
+    background: #000000; }
   .hamburger .hamburger-inner::after {
     width: 18px;
     right: 0; }
@@ -4340,7 +4340,7 @@ ol {
   height: 40px;
   line-height: 40px;
   padding: 0 14px;
-  background: #f24088;
+  background: #000000;
   border-radius: 4px;
   font-size: 14px;
   font-weight: normal;
@@ -4352,14 +4352,14 @@ ol {
   transition: all 0.15s ease; }
   .button:hover {
     color: #ffffff;
-    background-color: #f570a6;
+    background-color: #1a1a1a;
     transform: translateY(-1px);
     text-decoration: none; }
 
 .call {
   position: relative;
   overflow: hidden;
-  background-color: #f6f7ff;
+  background-color: #FFFFFF;
   border-radius: 4px;
   width: 100%;
   display: flex;
@@ -4378,7 +4378,7 @@ ol {
   .call .call-box-bottom {
     flex: auto;
     padding: 20px;
-    border-top: 1px solid #dde0ff; }
+    border-top: 1px solid #ffcf3e; }
     @media (min-width: 576px) {
       .call .call-box-bottom {
         flex: 0 0 auto;
@@ -4473,7 +4473,7 @@ ol {
 
 .content hr {
   border: none;
-  border-bottom: 1px solid #f6f7ff; }
+  border-bottom: 1px solid #FFD557; }
 
 .content table {
   width: 100%;
@@ -4483,19 +4483,19 @@ ol {
   .content table td {
     padding: 5px;
     vertical-align: top;
-    border-top: 1px solid #f6f7ff; }
+    border-top: 1px solid #FFD557; }
   .content table thead th {
     vertical-align: bottom;
-    border-bottom: 1px solid #f6f7ff;
+    border-bottom: 1px solid #FFD557;
     text-align: left;
     font-weight: bold; }
   .content table tbody + tbody {
-    border-top: 1px solid #f6f7ff; }
+    border-top: 1px solid #FFD557; }
 
 .content blockquote {
   padding: 0 1em;
   color: #5C5A5A;
-  border-left: 0.25em solid #f88379; }
+  border-left: 0.25em solid #FFFFFF; }
 
 .intro {
   display: flex;
@@ -4570,14 +4570,14 @@ ol {
     .intro-image-hide-mobile {
       display: block; } }
 .strip {
-  background: white;
+  background: #ffc107;
   background-repeat: no-repeat; }
 
-.strip-white {
-  background-color: white; }
+.strip-yellow {
+  background-color: yellow; }
 
 .strip-grey {
-  background-color: #f6f7ff; }
+  background-color: #FFFFFF; }
 
 .strip-diagonal {
   transform: skewY(5deg);
@@ -4587,16 +4587,16 @@ ol {
     transform: skewY(-5deg); }
 
 .strip-primary-gradient {
-  background-image: linear-gradient(to right, #f24088, #f88379); }
+  background-image: linear-gradient(to right, #000000, #FFFFFF); }
 
 .strip-primary-gradient-top-bottom {
-  background-image: linear-gradient(to bottom, #f24088, #f88379); }
+  background-image: linear-gradient(to bottom, #000000, #FFFFFF); }
 
 .strip-primary {
-  background-color: #f24088; }
+  background-color: #000000; }
 
 .strip-secondary {
-  background-color: #f88379; }
+  background-color: #FFFFFF; }
 
 .strip-diagonal-right {
   margin-top: -100px;
@@ -4620,10 +4620,10 @@ ol {
 
 .feature {
   height: 100%;
-  border: 1px solid #f6f7ff;
+  border: 1px solid #ffc107;
   border-radius: 3px;
   padding: 20px;
-  background-color: #ffffff;
+  background-color: #ffc107;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -4673,7 +4673,7 @@ ol {
       font-size: 22px;
       font-weight: normal; }
     .team-summary .team-meta p {
-      color: #2f2f41;
+      color: #000;
       text-transform: uppercase;
       margin: 0;
       font-size: 12px;
@@ -4683,7 +4683,7 @@ ol {
     flex: 1 0 100%; }
 
 .team-summary-large {
-  background-color: #f6f7ff;
+  background-color: #FFD557;
   padding: 30px;
   border-radius: 3px; }
   .team-summary-large .team-image {

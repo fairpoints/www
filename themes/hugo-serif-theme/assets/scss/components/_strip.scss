@@ -1,12 +1,12 @@
 .strip {
-  background: white;
+  background: $yellow;
   background-repeat: no-repeat;
 }
-.strip-white {
-  background-color: white;
+.strip-yellow {
+  background-color: yellow;
 }
 .strip-grey {
-  background-color: $white-offset;
+  background-color: $secondary;
 }
 .strip-diagonal {
   transform: skewY(5deg);
