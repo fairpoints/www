@@ -101,11 +101,11 @@ sup {
   top: -.5em; }
 
 a {
-  color: #000000;
+  color: blue;
   text-decoration: none;
   background-color: transparent; }
   a:hover {
-    color: black;
+    color: #0000b3;
     text-decoration: underline; }
 
 a:not([href]) {
@@ -4049,7 +4049,7 @@ html {
     transform: translate3d(0, -20px, 0) rotate(-90deg); }
 
 a {
-  color: #000000; }
+  color: blue; }
 
 p {
   line-height: 26px;
