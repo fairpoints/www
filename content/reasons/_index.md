@@ -1,11 +1,8 @@
 ---
-title: 'How to get involved'
-intro_image: "images/illustrations/lamp.png"
-intro_image_absolute: true
-intro_image_hide_on_mobile: false
+title: "Reasons to join us"
+weight: 1
 ---
 
-# Reasons to join us;
 * Connect with a **heterogeneous** community of researchers, research support, policy makers, funders, data managers and many more from different parts of the world! 
 
 * Stay up-to-date with the **latest conversations on FAIR** implementation solutions
@@ -17,3 +14,5 @@ intro_image_hide_on_mobile: false
 * **Connect** with international organizations, networks and communities
 
 * **Have your say** and help shape the themes for discussions
+
+![GetInvolved](/images/illustrations/lamp.png)

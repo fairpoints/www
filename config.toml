@@ -39,8 +39,12 @@ theme = "hugo-serif-theme"
   # Main Menu
   [[menu.main]]
     name = "Get involved"
-    url = "/join_us/"
-      weight = 3
+    url = "/involved/"
+      weight = 4
+  [[menu.main]]
+        name = "Why join?"
+        url = "/reasons/"
+          weight = 3
 
   [[menu.main]]
       name = "Team"
@@ -55,7 +59,7 @@ theme = "hugo-serif-theme"
   [[menu.main]]
       name = "Contact"
       url = "/contact/"
-      weight = 4
+      weight = 5
 
   # Footer Menu
   [[menu.footer]]
