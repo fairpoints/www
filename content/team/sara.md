@@ -6,4 +6,4 @@ Twitterhandle: "yalahowy"
 promoted: true
 weight: 2
 ---
-Project Leader-Metadata and Curation at the SciLifeLab-DataCentre.
+Project Leader-Metadata and Curation at the SciLifeLab Data Centre.
