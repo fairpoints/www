@@ -4,7 +4,7 @@ draft: false
 image: "images/team/jo.jpeg"
 Twitterhandle: "openscicomm"
 promoted: true
-weight: 7
+weight: 8
 ---
 
 Founder of Access2Perspectives and AfricAxrivs
