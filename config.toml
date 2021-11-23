@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Hugo Serif Theme"
+title = "FAIRPoints"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 
@@ -26,8 +26,8 @@ theme = "hugo-serif-theme"
     alt = "Serif - A Hugo Business Theme"
 
   [params.seo]
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@FAIR_Points"
+    meta_twitter_creator = "@FAIR_Points"
 
   [params.team]
     summary_large_truncate = 120  # How many characters to include in the summary of the team bios (large layout) before truncating
