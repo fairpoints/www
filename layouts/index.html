@@ -26,7 +26,7 @@
     <div class="row justify-content-start">
       {{ $join_us := where (where .Site.RegularPages "Type" "join_us") ".Params.featured" true }}
       {{ range first 6 (sort $join_us ".Params.weight") }}
-      <div class="col-12 col-md-4 mb-1">
+      <div class=".col-12 .col-md-8">
         {{ .Render "summary" }}
       </div>
       {{ end }}
