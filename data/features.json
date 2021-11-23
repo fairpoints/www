@@ -1,7 +1,7 @@
 [
   {
     "title": "About us",
-    "description": "Find out more",
+    "description": "Find out more.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "title": "Events",
-    "description": "Signup and join our events",
+    "description": "Signup and join our events.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
