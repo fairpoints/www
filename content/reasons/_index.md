@@ -1,5 +1,8 @@
 ---
 title: "Reasons to join us"
+intro_image: "images/illustrations/lamp.png"
+intro_image_absolute: true
+intro_image_hide_on_mobile: false
 weight: 1
 ---
 
@@ -15,4 +18,3 @@ weight: 1
 
 * **Have your say** and help shape the themes for discussions
 
-![GetInvolved](/images/illustrations/lamp.png)

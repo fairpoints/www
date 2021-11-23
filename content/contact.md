@@ -1,16 +1,13 @@
 ---
 title: 'Contact'
-date: 2018-02-22T17:01:34+07:00
 layout: contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+----
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Sunday    | Closed          |
+# Attend our upcoming event:
+
+###  Our first event taking place on January  January 28, 2022, 17:00 - 18:00 CEST, see in [your time zone](https://arewemeetingyet.com/Stockholm/2022-01-28/17:00/FAIRPoints#eyJ1cmwiOiJodHRwczovL3d3dy5zY2lsaWZlbGFiLnNlL2V2ZW50L2ZhaXJwb2ludHMvIn0=) 
+### Register: [https://www.scilifelab.se/event/fairpoints/](https://www.scilifelab.se/event/fairpoints/) 
+
+
