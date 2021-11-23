@@ -19,22 +19,22 @@
   </div>
 </div>
 
-{{ $services := where (where .Site.RegularPages "Type" "services") ".Params.featured" true }}
-{{if gt (len $services) 0}}
+{{ $join_us := where (where .Site.RegularPages "Type" "join_us") ".Params.featured" true }}
+{{if gt (len $join_us) 0}}
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
-      {{ $services := where (where .Site.RegularPages "Type" "services") ".Params.featured" true }}
-      {{ range first 6 (sort $services ".Params.weight") }}
+      {{ $join_us := where (where .Site.RegularPages "Type" "join_us") ".Params.featured" true }}
+      {{ range first 6 (sort $join_us ".Params.weight") }}
       <div class="col-12 col-md-4 mb-1">
         {{ .Render "summary" }}
       </div>
       {{ end }}
     </div>
-    {{ if not .Site.Params.homepage.show_services_button }}
+    {{ if not .Site.Params.homepage.show_join_us_button }}
     <div class="row justify-content-center">
       <div class="col-auto">
-        <a class="button button-primary" href="{{ "services/" | relURL }}">View All Services</a>
+        <a class="button button-primary" href="{{ "join_us/" | relURL }}">View All join_us</a>
       </div>
     </div>
     {{ end }}

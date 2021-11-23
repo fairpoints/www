@@ -38,9 +38,9 @@ theme = "hugo-serif-theme"
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "Services"
-    url = "/services/"
-      weight = 1
+    name = "Get involved"
+    url = "/join_us/"
+      weight = 3
 
   [[menu.main]]
       name = "Team"
@@ -50,7 +50,7 @@ theme = "hugo-serif-theme"
   [[menu.main]]
       name = "About"
       url = "/about/"
-      weight = 3
+      weight = 1
 
   [[menu.main]]
       name = "Contact"
