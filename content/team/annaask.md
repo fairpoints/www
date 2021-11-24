@@ -1,7 +1,7 @@
 ---
 title: 'Anna Asklöf'
 draft: false
-image: 'images/team/annaask.png'
+image: 'images/team/annaask.jpeg'
 promoted: true
 weight: 7
 ---
