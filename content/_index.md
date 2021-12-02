@@ -9,3 +9,4 @@ intro_image_hide_on_mobile: true
 
 # FAIRPoints
 The event series highlighting pragmatic measures developed by the community towards the implementation of the FAIR (Findable, Accessible, Interoperable, Reusable) data principles. 
+
