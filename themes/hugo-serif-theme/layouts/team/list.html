@@ -4,7 +4,7 @@
 <div class="intro">
   <div class="container">
     <div class="row justify-content-start">
-      <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
+        <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
         {{ .Content }}
       </div>
       {{ if .Params.intro_image }}
@@ -18,7 +18,33 @@
     </div>
   </div>
 </div>
+<div class="container pb-6 pt-3 pt-md-5 pb-md-10">
+  <div class="row justify-content-start">
+    <div class="col-12 col-md-8">
+      <div class="service service-single">
+        <h1 class="title">Contact</h1>
+        <div class="call">
+  <div class="call-box-top">
 
+
+    <div class="call-email"><strong>Email: </strong>
+      <a href="mailto:fairpoints@protonmail.com">
+        fairpoints@protonmail.com
+      </a>
+    </div>
+
+    <div class="Twitterhandle"><strong>Twitter</strong>
+      <a target="_blank" rel="noreferrer" href="https://twitter.com/FAIR_Points">FAIR_Points</a>
+    </div>
+  </div>
+
+</div>
+
+        <div class="content mt-4"></div>
+      </div>
+    </div>
+  </div>
+</div>
 <div class="container">
   <div class="row">
     {{ range where .Pages.ByWeight ".Params.promoted" true }}

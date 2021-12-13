@@ -282,7 +282,7 @@ html {
 
 .container {
   width: 100%;
-  padding-right: 10px;
+  padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto; }
@@ -4506,8 +4506,8 @@ ol {
   overflow: hidden; }
   @media (min-width: 768px) {
     .intro {
-      padding-top: 140px;
-      padding-bottom: 140px; } }
+      padding-top: 60px;
+      padding-bottom: 60px; } }
   .intro h1 {
     color: #2f2f41;
     font-size: 42px;
@@ -4541,7 +4541,7 @@ ol {
 
 .intro-image {
   width: 100%;
-  height: auto;
+  height: 100%;
   margin-top: -20px; }
 
 .intro-image-absolute {

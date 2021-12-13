@@ -42,29 +42,21 @@ theme = "hugo-serif-theme"
       url = "/"
       weight = 1
   [[menu.main]]
-      name = "About"
-      url = "/about/"
-      weight = 2
-  [[menu.main]]
           name = "Events"
           url = "/events/"
-          weight = 3
-[[menu.main]]
-          name = "Why join?"
-          url = "/reasons/"
-          weight = 4
-  [[menu.main]]
-      name = "Team"
-      url = "/team/"
-      weight = 5
+          weight = 2
   [[menu.main]]
     name = "Get involved"
     url = "/involved/"
-    weight = 6
+    weight = 3
+  [[menu.main]]
+        name = "Team"
+        url = "/team/"
+        weight = 4
   [[menu.main]]
       name = "Contact"
       url = "/contact/"
-      weight = 7
+      weight = 5
 
 
   # Footer Menu
