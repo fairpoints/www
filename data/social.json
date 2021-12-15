@@ -1,8 +1,9 @@
 [
     {
-        "name": "Github",
-        "link": "https://github.com/fairpoints",
-        "image": "images/social/github.svg"
+        "name": "E-mail",
+        "link": "mailto:fairpoints@protonmail.com",
+        "handle": "fairpoints@protonmail.com",
+        "image": "images/social/envelope.svg"
     },
     {
         "name": "Twitter",
@@ -11,9 +12,8 @@
         "image": "images/social/twitter.svg"
     },
     {
-        "name": "E-mail",
-        "link": "mailto:fairpoints@protonmail.com",
-        "handle": "fairpoints@protonmail.com",
-        "image": "images/social/envelope.svg"
+        "name": "Github",
+        "link": "https://github.com/fairpoints",
+        "image": "images/social/github.svg"
     }
 ]
