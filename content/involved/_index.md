@@ -1,7 +1,7 @@
 ---
 title: 'How to get involved'
-intro_image: "images/involve.png"
-intro_image_absolute: true
+intro_image: "images/illustrations/gang.png"
+intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
 # Join one of our working groups
@@ -22,7 +22,7 @@ Our group activities include;
 * Partnership and collaboration
 
 # Why Join?
-* Connect with a **heterogeneous** community of researchers, research support, policy makers, funders, data managers and many more from different parts of the world! 
+* Connect with a **heterogeneous** community of researchers, research support, policy makers, funders, data managers and many more from different parts of the world!
 
 * Stay up-to-date with the **latest conversations on FAIR** implementation solutions
 
