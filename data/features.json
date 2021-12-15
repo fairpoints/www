@@ -3,7 +3,7 @@
     "title": "Events",
     "description": "Signup and join our events.",
     "image": "images/features/noun_3d modeling_1885342.svg",
-    "link": "content/events.md" 
+    "relref": "https://www.fairpoints.org/events/" 
   },
   {
     "title": "How to get involved",
