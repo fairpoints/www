@@ -24,6 +24,9 @@
     }
   }
   .social {
+    a {
+      color: inherit;
+    }
     a:first-of-type {
       margin-left: -10px;
     }
