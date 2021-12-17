@@ -54,10 +54,13 @@ theme = "hugo-serif-theme"
         url = "/team/"
         weight = 4
   [[menu.main]]
-      name = "Contact"
-      url = "/contact/"
-      weight = 5
-
+        name = "FAIRPoints resources"
+        url = "/fairpoints_resources/"
+        weight = 5
+  [[menu.main]]
+        name = "Contact"
+        url = "/contact/"
+        weight = 6
 
   # Footer Menu
   [[menu.footer]]
