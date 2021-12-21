@@ -1,18 +1,18 @@
 [
   {
     "title": "Events",
-    "description": "Signup and join our events.",
+    "description": "Signup and join our events",
     "image": "images/features/noun_3d modeling_1885342.svg",
-    "relref": "https://www.fairpoints.org/events/" 
+    "relref": "https://www.fairpoints.org/events/"
+  },
+  {
+    "title": "Resources",
+    "description": "Find out more",
+    "image": "images/features/noun_branding_1885335.svg"
   },
   {
     "title": "How to get involved",
-    "description": "Read about working groups.",
+    "description": "Join our working groups",
     "image": "images/features/noun_The Process_1885341.svg"
-  },
-  {
-    "title": "Team",
-    "description": "Find out more.",
-    "image": "images/features/noun_branding_1885335.svg"
   }
 ]
