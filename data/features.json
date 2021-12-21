@@ -8,11 +8,13 @@
   {
     "title": "Resources",
     "description": "Find out more",
-    "image": "images/features/noun_branding_1885335.svg"
+    "image": "images/features/noun_branding_1885335.svg",
+    "relref": "https://www.fairpoints.org/fairpoints_resources/"
   },
   {
     "title": "How to get involved",
     "description": "Join our working groups",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "image": "images/features/noun_The Process_1885341.svg",
+    "relref": "https://www.fairpoints.org/involved/"
   }
 ]

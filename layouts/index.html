@@ -65,7 +65,7 @@
           {{ if .image }}
           <div class="feature-image"><img width="100" height="100" alt="{{ .Title }} logo" src="{{ .image | relURL }}" /></div>
           {{ end }}
-          <h2 class="feature-title">{{ .title }}</h2>
+          <h2 class="feature-title"><a href="{{ .relref }}">{{ .title }}</a></h2>
           <div class="feature-content">
             <p>{{ .description }}</p>
           </div>
