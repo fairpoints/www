@@ -5,10 +5,10 @@
   </div>
   {{ end }}
   <div class="team-meta">
-    <h2 class="team-meta team-name">{{ .Title }}</h2>
-    <p class="team-meta team-description">{{ .Params.Jobtitle }}</p>
+    <h2>{{ .Title }}</h2>
+    <p class="team-description">{{ .Params.Jobtitle }}</p>
     {{ if .Params.Twitterhandle }}
     <a style="color:white" target="_blank" rel="noreferrer" href="https://twitter.com/{{ .Params.Twitterhandle }}">Twitter</a> {{ end }}
+    <p class="team-description">{{ .Content | truncate (.Site.Params.team.summary_large_truncate | default 120 ) "…" }}</p>
   </div>
-  <div class="team-content">    {{ .Content | truncate (.Site.Params.team.summary_large_truncate | default 120 ) "…" }}</div>
 </div>
