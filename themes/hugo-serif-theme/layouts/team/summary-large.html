@@ -1,15 +1,14 @@
 <div class="team team-summary team-summary-large">
   {{ if .Params.image }}
   <div class="team-image">
-    <img width="360" height="360" alt="Photo of {{ .Title }}" class="img-fluid mb-2" src="{{ .Params.image | relURL }}" />
+    <img alt="Photo of {{ .Title }}" class="img-fluid mb-2" src="{{ .Params.image | relURL }}" />
   </div>
   {{ end }}
   <div class="team-meta">
-    <h2 class="team-name">{{ .Title }}</h2>
+    <h2>{{ .Title }}</h2>
     <p class="team-description">{{ .Params.Jobtitle }}</p>
     {{ if .Params.Twitterhandle }}
     <a style="color:white" target="_blank" rel="noreferrer" href="https://twitter.com/{{ .Params.Twitterhandle }}">Twitter</a> {{ end }}
-
+    <p class="team-description">{{ .Content | truncate (.Site.Params.team.summary_large_truncate | default 120 ) "…" }}</p>
   </div>
-  <div class="team-content">    {{ .Content | truncate (.Site.Params.team.summary_large_truncate | default 120 ) "…" }}</div>
 </div>
