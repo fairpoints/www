@@ -4660,13 +4660,13 @@ ol {
   flex-wrap: wrap;
   flex-direction: row; }
   .team-summary .team-image {
-    height: 60px;
-    width: 60px;
+    height: 150px;
+    width: 150px;
     margin-right: 10px;
     border-radius: 50%;
     overflow: hidden; }
     .team-summary .team-image img {
-      width: 60px;
+      width: 150px;
       height: auto; }
   .team-summary .team-meta {
     flex: 1; }
@@ -4674,28 +4674,28 @@ ol {
       margin: 0;
       font-size: 22px;
       font-weight: normal; }
-    .team-summary .team-meta p {
+    .team-summary .team-meta .team-jobtitle {
       color: #000;
       text-transform: uppercase;
       margin: 0;
       font-size: 12px;
       font-weight: 500; }
-  .team-summary .team-content {
-    margin-top: 20px;
-    flex: 1 0 100%; }
+    .team-summary .team-meta .team-description {
+      margin-top: 20px;
+      flex: 1 0 100%; }
 
 .team-summary-large {
   background-color: #FFD557;
   padding: 30px;
   border-radius: 3px; }
   .team-summary-large .team-image {
-    height: 90px;
-    width: 90px;
+    height: 150px;
+    width: 150px;
     margin-right: 20px;
     border-radius: 50%;
     overflow: hidden; }
     .team-summary-large .team-image img {
-      width: 90px;
+      width: 150px;
       height: auto; }
 
 .page-services-single .content > p:first-of-type {

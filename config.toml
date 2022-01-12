@@ -61,6 +61,10 @@ theme = "hugo-serif-theme"
         name = "Contact"
         url = "/contact/"
         weight = 6
+  [[menu.main]]
+              name = "Participation Guidelines"
+              url = "/coc/"
+              weight = 7
 
   # Footer Menu
   [[menu.footer]]
