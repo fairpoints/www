@@ -21,4 +21,6 @@ Our group activities include;
 
 * Partnership and collaboration
 
-## Fill in this [form](https://forms.gle/zSqQLv4eNyoYfuAx7) to join us.
+## Interested in joining the team? Let us know in this [form](https://forms.gle/zSqQLv4eNyoYfuAx7)!
+
+## Join the discussions on our [Slack](https://join.slack.com/t/fairpoints/shared_invite/zt-yaw3p6xd-4xIq7LXCEBKPME0DP_AiGg)!
