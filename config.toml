@@ -63,7 +63,7 @@ theme = "hugo-serif-theme"
         weight = 6
   [[menu.main]]
               name = "Participation Guidelines"
-              url = "/coc/"
+              url = "/participation_guides/"
               weight = 7
 
   # Footer Menu
