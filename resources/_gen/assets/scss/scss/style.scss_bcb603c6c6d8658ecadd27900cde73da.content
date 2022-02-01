@@ -101,11 +101,11 @@ sup {
   top: -.5em; }
 
 a {
-  color: blue;
+  color: #0D6CA6;
   text-decoration: none;
   background-color: transparent; }
   a:hover {
-    color: #0000b3;
+    color: #073e5f;
     text-decoration: underline; }
 
 a:not([href]) {
@@ -4049,7 +4049,7 @@ html {
     transform: translate3d(0, -20px, 0) rotate(-90deg); }
 
 a {
-  color: blue; }
+  color: #0D6CA6; }
 
 p {
   line-height: 26px;
@@ -4549,7 +4549,7 @@ ol {
 .intro-image-absolute {
   max-width: none;
   padding: 0;
-  margin-bottom: 30px; }
+  margin-bottom: 160px; }
   @media (min-width: 768px) {
     .intro-image-absolute {
       position: absolute;
