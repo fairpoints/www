@@ -1,7 +1,7 @@
 ---
 title: 'Events'
 ---
-If you would like to sign up to our event series please register [here](shiny.link/Jl6nuV).
+If you would like to sign up to our event series please register [here](https://shiny.link/Jl6nuV).
  
 ----
 ### FAIRPoints  
