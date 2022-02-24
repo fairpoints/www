@@ -4,15 +4,6 @@ title: 'Events'
 If you would like to sign up to our event series please register [here](https://shiny.link/Jl6nuV).
 
 ## Upcoming events
-----
-### Step by Step Publishing with ResearchEquals
-In this talk, we will explore the open source publishing platform [ResearchEquals](https://www.researchequals.com/), where you can publish your entire research journey, step by step. With this, researchers get the autonomy to make all their research outputs findable, accessible, interoperable, and reusable. In this presentation, Chris Hartgerink shows how you can get started with this new publishing system and how you can help shape its future development.
-
-Speaker: Chris Hartgerink             
-Date: February 24, 2022  
-Time: 15:00 - 16:00 CEST, see in [your time zone](https://arewemeetingyet.com/Stockholm/2022-02-24/15:00/Step%20by%20Step%20Publishing)
-
-[Register](https://www.lyyti.fi/reg/FAIRPoints_ResearchEquals?ct=t(EMAIL_CAMPAIGN_2_11_2022_11_53))
 
 ----
 ### Harmonising FAIR data sharing with Legal Compliance
@@ -37,5 +28,14 @@ Time: 17:00 - 18:00 CEST, see in [your time zone](https://arewemeetingyet.com/St
 **Recording** available [here](https://youtu.be/1dEv5x5imBw)
 
 **Presentation** available [here](https://drive.google.com/file/d/1-rfaPT7sa5ksu6oSHkRKerVZTxLQmdT-/view?usp=sharing)
+
+----
+
+### Step by Step Publishing with ResearchEquals
+In this talk, we will explore the open source publishing platform [ResearchEquals](https://www.researchequals.com/), where you can publish your entire research journey, step by step. With this, researchers get the autonomy to make all their research outputs findable, accessible, interoperable, and reusable. In this presentation, Chris Hartgerink shows how you can get started with this new publishing system and how you can help shape its future development.
+
+Speaker: Chris Hartgerink             
+Date: February 24, 2022  
+Time: 15:00 - 16:00 CEST, see in [your time zone](https://arewemeetingyet.com/Stockholm/2022-02-24/15:00/Step%20by%20Step%20Publishing)
 
 ----
