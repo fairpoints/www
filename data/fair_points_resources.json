@@ -32,8 +32,7 @@
       "@type": "Community",
       "name": "FAIRPoints",
       "url": "https://www.fairpoints.org/"
-    },
-    {
+    },{
       "@type": "Person",
       "name": "",
       "ORCID":""
@@ -69,17 +68,15 @@
       "@type": "Community",
       "name": "FAIRPoints",
       "url": "https://www.fairpoints.org"
-    },
-    {
+    },{
       "@type": "Person",
       "name": "",
-      "ORCID":
-    },
-    {
+      "ORCID":""
+    },{
       "@type": "Organization",
       "name": "",
       "url": ""
-    },
+    }
   ],
   "creativeWorkStatus": "active",
   "dateCreated": "2020-02-24",
