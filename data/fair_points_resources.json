@@ -1,0 +1,99 @@
+{
+  "@context": "https://fairpoints.org",
+  "@type": "LearningResource",
+  "@id": "https://www.fairpoints.org/fairpoints_resources/",
+  "dct:conformsTo": "https://bioschemas.org/profiles/TrainingMaterial/0.9-DRAFT-2020_12_08",
+  "description": "FAIRPoints: Step by Step publishing with ResearchEquals, summary",
+  "keywords": "FAIR, Training Materials, Bioschemas, FAIRPoints, Open Publishing",
+  "name": "FAIRPoints_Point_1",
+  "about": [
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.fairpoints.org/fairpoints_resources/",
+      "inDefinedTermSet": "https://www.fairpoints.org",
+      "termCode": "Point_1",
+      "name": "FAIRPoints_Point_1",
+      "url": "https://www.fairpoints.org/fairpoints_resources/FAIRPoint_1"
+    }, {
+    "@id": "https://www.fairpoints.org/fairpoints_resources/FAIRPoint_1"
+    }
+  ],
+  "abstract": "TBD",
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "People interested in training materials and FAIR"
+  },
+  "author":  [
+    {
+      "@type": "Person",
+      "name": "Sara El-Gebali",
+      "ORCID":""
+    },{
+      "@type": "Community",
+      "name": "FAIRPoints",
+      "url": "https://www.fairpoints.org/"
+    },
+    {
+      "@type": "Person",
+      "name": "",
+      "ORCID":""
+    },{
+      "@type": "Organization",
+      "name": "",
+      "url": ""
+    }
+  ],
+  "competencyRequired": ["None"],
+  "educationalLevel": "Beginner",
+  "identifier": "https://www.fairpoints.org/fairpoints_resources/",
+  "inLanguage": ["en-US"],
+  "learningResourceType": ["slides"],
+  "license": ["https://creativecommons.org/licenses/by/4.0/"],
+  "mentions": [
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.fairpoints.org/fairpoints_resources/",
+      "name": "FAIRPoints_1",
+      "identifier": "",
+      "url": ""
+    }
+  ],
+  "teaches": [
+    ""
+  ],
+  "timeRequired": "PT15M",
+  "url": "https://www.fairpoints.org/fairpoints_resources/",
+  "accessibilitySummary": "Short descriptions are present and no long descriptions are needed",
+  "contributor":  [
+    {
+      "@type": "Community",
+      "name": "FAIRPoints",
+      "url": "https://www.fairpoints.org"
+    },
+    {
+      "@type": "Person",
+      "name": "",
+      "ORCID":
+    },
+    {
+      "@type": "Organization",
+      "name": "",
+      "url": ""
+    },
+  ],
+  "creativeWorkStatus": "active",
+  "dateCreated": "2020-02-24",
+  "dateModified": "",
+  "datePublished": "",
+  "recordedAt": [
+    {
+      "@type": "VirtualEvent",
+      "name": "FAIRPoints_Point_1",
+      "url": "https://www.fairpoints.org/fairpoints_resources/"
+    }
+  ],
+  "learningOutcome":[
+    ""
+  ],
+  "version": ""
+}
