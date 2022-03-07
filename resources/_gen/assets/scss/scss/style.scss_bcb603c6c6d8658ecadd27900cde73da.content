@@ -4549,7 +4549,7 @@ ol {
 .intro-image-absolute {
   max-width: none;
   padding: 0;
-  margin-bottom: 160px; }
+  margin-bottom: -40px; }
   @media (min-width: 768px) {
     .intro-image-absolute {
       position: absolute;
