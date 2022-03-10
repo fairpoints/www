@@ -28,7 +28,7 @@ Speaker: Juliane Schneider & Chris Erdmann
 Date: April 21, 2022  
 Time: 15:00 - 16:00 CEST, see in [your time zone](https://arewemeetingyet.com/Stockholm/2022-04-21/15:00/Things%20you%20need%20to%20know%20about%20Data%20Access%20Statements)
 
-[Register-TBD]
+[Register](https://www.lyyti.fi/reg/fairpoints_das)
 
 
 ## Previous events
