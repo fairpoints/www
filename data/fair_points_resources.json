@@ -1,8 +1,11 @@
 {
-  "@context": "https://fairpoints.org",
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "dct": "http://purl.org/dc/terms/"
+  },
   "@type": "LearningResource",
-  "@id": "https://www.fairpoints.org/fairpoints_resources/",
-  "dct:conformsTo": "https://bioschemas.org/profiles/TrainingMaterial/0.9-DRAFT-2020_12_08",
+  "@id": "https://www.fairpoints.org/fairpoints_resources/1",
+  "dct:conformsTo": {"@id": "https://bioschemas.org/profiles/TrainingMaterial/0.9-DRAFT-2020_12_08"},
   "description": "FAIRPoints: Step by Step publishing with ResearchEquals, summary",
   "keywords": "FAIR, Training Materials, Bioschemas, FAIRPoints, Open Publishing",
   "name": "FAIRPoints_Point_1",
@@ -89,8 +92,19 @@
       "url": "https://www.fairpoints.org/fairpoints_resources/"
     }
   ],
-  "learningOutcome":[
-    ""
+  "hasPart":[
+    {
+      "@type": "CreativeWork",
+      "associatedMedia": {"@type": "AudioObject", "contentUrl": "http://example.org/this.mp3"}
+    },
+    {
+      "@type": "CreativeWork",
+      "associatedMedia": {"@type": "VideoObject", "contentUrl": "http://example.org/this.mp4"}
+    },
+    {
+      "@type": "CreativeWork",
+      "associatedMedia": {"@type": "ImageObject", "contentUrl": "http://example.org/this.png"}
+    }
   ],
   "version": ""
 }
