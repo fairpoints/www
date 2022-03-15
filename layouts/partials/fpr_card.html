@@ -1,0 +1,10 @@
+<ul>
+    <h2>{{ .name }}</h2>
+    <p>{{ .abstract }}</p>
+    <h4>Authors</h4>
+    <ul>
+        {{ range .author }}
+        <li><a href="{{ if .ORCID}}{{.ORCID}}}{{else}}{{.url}}{{end}}">{{ .name }}</a></li>
+        {{ end }}
+    </ul>
+</ul>
