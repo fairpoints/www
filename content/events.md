@@ -3,6 +3,7 @@ title: 'Events'
 ---
 If you would like to sign up to our event series please register [here](https://bit.ly/3BEQ06X).
 
+----
 ## Upcoming events
 
 ----
@@ -18,11 +19,7 @@ Time: 16:00 - 17:00 CEST, see in [your time zone](https://arewemeetingyet.com/St
 ----
 
 ### Things you need to know about Data Access Statements
-Data access statements (DAS), also known as data availability statements, are key elements that can be used in multiple diverse disciplines and have a huge impact in providing essential information as it outlines where and how any underlying data may be accessed and reused, listing specific restrictions (if any) and the authorization process. 
-
-It is therefore integral to the FAIRification process. 
-
-Join us in this talk to discover how an effective data access statement should look like! 
+Data access statements (DAS), also known as data availability statements, are key elements that can be used in multiple diverse disciplines and have a huge impact in providing essential information as it outlines where and how any underlying data may be accessed and reused, listing specific restrictions (if any) and the authorization process. It is therefore integral to the FAIRification process. Join us in this talk to discover how an effective data access statement should look like!
 
 Speaker: Juliane Schneider & Chris Erdmann           
 Date: April 21, 2022  
@@ -30,7 +27,7 @@ Time: 15:00 - 16:00 CEST, see in [your time zone](https://arewemeetingyet.com/St
 
 [Register](https://www.lyyti.fi/reg/fairpoints_das)
 
-
+----
 ## Previous events
 ----
 ### FAIRPoints  
