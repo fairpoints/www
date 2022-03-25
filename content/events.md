@@ -28,6 +28,10 @@ Speaker: Harshvardhan J. Pandit
 Date: March 23, 2022  
 Time: 16:00 - 17:00 CEST, see in [your time zone](https://arewemeetingyet.com/Stockholm/2022-03-23/16:00/Harmonising%20FAIR%20data%20sharing%20with%20Legal%20Compliance)
 
+**Recording** available [here](https://www.youtube.com/watch?v=fTEw6K8YSIQ)
+
+**Presentation** available [here](https://harshp.com/research/presentations#2022-FAIRPoints-Legal-Compliance)
+
 ----
 
 ### Step by Step Publishing with ResearchEquals
