@@ -21,24 +21,27 @@
     "@id": "http://edamontology.org/data_3670"
     }
   ],
-  "abstract": "In this talk, we will explore the open source publishing platform ResearchEquals, where you can publish your entire research journey, step by step.
-  With this, researchers get the autonomy to make all their research outputs findable, accessible, interoperable, and reusable.
-  In this presentation, Chris Hartgerink shows how you can get started with this new publishing system and how you can help shape its future development.
-  Speaker: Chris Hartgerink",
+  "abstract": "In this talk, we will explore the open source publishing platform ResearchEquals, where you can publish your entire research journey, step by step.\nWith this, researchers get the autonomy to make all their research outputs findable, accessible, interoperable, and reusable.\nIn this presentation, Chris Hartgerink shows how you can get started with this new publishing system and how you can help shape its future development.\nSpeaker: Chris Hartgerink",
   "audience": {
     "@type": "Audience",
     "audienceType": "People interested in publishing their research output"
   },
+
+  "competencyRequired": ["None"],
+  "educationalLevel": "Beginner",
+  "identifier": "https://www.fairpoints.org/fairpoints_resources/",
+  "inLanguage": ["en-US"],
+  "learningResourceType": ["slides", "recording"],
+  "license": ["https://creativecommons.org/licenses/by/4.0/"],
   "author":  [
     {
       "@type": "Person",
       "name": "Chris Hartgerink",
-      "ORCID":"https://orcid.org/0000-0003-1050-6809"
-    }
-    {
+      "ORCID": "https://orcid.org/0000-0003-1050-6809"
+    },{
       "@type": "Person",
       "name": "Sara El-Gebali",
-      "ORCID":"https://orcid.org/0000-0003-1378-5495"
+      "ORCID": "https://orcid.org/0000-0003-1378-5495"
     },{
       "@type": "Community",
       "name": "FAIRPoints",
@@ -53,13 +56,6 @@
       "url": ""
     }
   ],
-  "competencyRequired": ["None"],
-  "educationalLevel": "Beginner",
-  "identifier": "https://www.fairpoints.org/fairpoints_resources/",
-  "inLanguage": ["en-US"],
-  "learningResourceType": ["slides", "recording"],
-  "license": ["https://creativecommons.org/licenses/by/4.0/"],
-
   "teaches": [
     "ResearchEquals= new open access publishing platform","Publish research steps",
 "You get the agency as a researcher to publish your own work",
