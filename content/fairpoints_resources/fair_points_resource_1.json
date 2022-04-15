@@ -35,6 +35,14 @@
       "@type": "Community",
       "name": "FAIRPoints",
       "url": "https://www.fairpoints.org/"
+    },{
+      "@type": "Person",
+      "name": "",
+      "ORCID":""
+    },{
+      "@type": "Organization",
+      "name": "",
+      "url": ""
     }
   ],
   "competencyRequired": ["None"],
@@ -43,12 +51,12 @@
   "inLanguage": ["en-US"],
   "learningResourceType": ["slides", "recording"],
   "license": ["https://creativecommons.org/licenses/by/4.0/"],
-  "teaches": ["FAIR-Jargon; in your opinion, which terms, concepts and/or phrases commonly used in FAIR discussions that need more definition?",
+"teaches": [ "FAIR-Jargon; in your opinion, which terms, concepts and/or phrases commonly used in FAIR discussions that need more definition?",
   "“Accessible” it gets confused with ‘open’, could also means “electronic accessibility” for the differently abled community, e.g. those with sight, hearing impairments.",
   "Interoperable - not one of the most common words in English and a difficult concept which doesn’t really help.",
   "fuzzy distinction between interoperable and reusable in common usage", "concepts are not well-defined even the word is clear e.g., persistent",
   "the machine knows what you mean", "Metadata", "data about data", "definition of community standard"
-  ],
+],
   "teaches": ["FAIR-Easier said than done? In your opinion, what challenges are encountered or anticipated along the implementation trajectory of FAIR?",
     "Educating researchers on mandatory FAIR training in the beginning to incorporate it into the research cycle.", "convincing researchers of the value in investing in FAIR from the start",
     "lack of forethought about how the about user community is accessing/finding/using data",
