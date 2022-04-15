@@ -56,7 +56,7 @@
     "How to make the benefits of FAIR visible to academic researchers", "Researchers are afraid of being scooped and don't understand licensing and ownership as well as how to choose conditions in publishing in repos",
     "Alot of metadata is expected, adding a level of effort in curation, labor intensive process which can be made easier if researchers provide accurate and detailed information from the start"
   ],
-  "teaches": [ "FAIR is a set of guiding principles, do you have examples for practical implementation choices that are being made within your community of practice?", "FAIRification efforts in the materials science community: a common API for serving data: https://www.optimade.org/, data repositories: https://nomad-lab.eu/, https://archive.materialscloud.org/, https://mpcontribs.org/",
+  "teaches": [ "FAIR is a set of guiding principles, do you have examples for practical implementation choices that are being made within your community of practice?", "FAIRification efforts in the materials science community: a common API for serving data: <https://www.optimade.org/>, data repositories: <https://nomad-lab.eu/>, <https://archive.materialscloud.org/>, https://mpcontribs.org/",
     "Domain-specific implementation profiles and examples: https://www.go-fair.org/how-to-go-fair/fair-implementation-profile/ , https://www.go-fair.org/implementation-networks/overview/",
     "How to be FAIR with your data: A teaching and training handbook for higher education institutions (https://doi.org/10.5281/zenodo.5665492).",
     "Article: https://crl.acrl.org/index.php/crl/article/view/23610/30923",

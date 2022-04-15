@@ -16,6 +16,11 @@
     </ul>
     <br>
     <h4>FAIRPoints</h4>
+    <ul>
+        {{ range .teaches }}
+        <li>{{ . | markdownify }}</li>
+        {{ end }}
+    </ul>
 
 
     <p>Date Published: {{ .datePublished }} <br> Version: {{ .version }}</p>
