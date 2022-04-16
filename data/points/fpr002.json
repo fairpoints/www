@@ -46,14 +46,6 @@
       "@type": "Community",
       "name": "FAIRPoints",
       "url": "https://www.fairpoints.org/"
-    },{
-      "@type": "Person",
-      "name": "",
-      "ORCID":""
-    },{
-      "@type": "Organization",
-      "name": "",
-      "url": ""
     }
   ],
   "teaches": [
@@ -79,14 +71,6 @@
       "@type": "Community",
       "name": "FAIRPoints",
       "url": "https://www.fairpoints.org"
-    },{
-      "@type": "Person",
-      "name": "",
-      "ORCID":""
-    },{
-      "@type": "Organization",
-      "name": "",
-      "url": ""
     }
   ],
   "creativeWorkStatus": "active",
