@@ -4,7 +4,7 @@
     "dct": "http://purl.org/dc/terms/"
   },
   "@type": "LearningResource",
-  "@id": "https://www.fairpoints.org/fairpoints_resources/1",
+  "@id": "https://www.fairpoints.org/fairpoints_resources/2",
   "dct:conformsTo": {"@id": "https://bioschemas.org/profiles/TrainingMaterial/0.9-DRAFT-2020_12_08"},
   "description": "FAIRPoints: Step by Step publishing with ResearchEquals, summary",
   "keywords": "FAIR, Training Materials, Bioschemas, FAIRPoints, Open Publishing",
@@ -38,14 +38,6 @@
       "@type": "Person",
       "name": "Chris Hartgerink",
       "ORCID": "https://orcid.org/0000-0003-1050-6809"
-    },{
-      "@type": "Person",
-      "name": "Sara El-Gebali",
-      "ORCID": "https://orcid.org/0000-0003-1378-5495"
-    },{
-      "@type": "Community",
-      "name": "FAIRPoints",
-      "url": "https://www.fairpoints.org/"
     }
   ],
   "teaches": [
@@ -87,15 +79,13 @@
   "hasPart":[
     {
       "@type": "CreativeWork",
-      "associatedMedia": {"@type": "AudioObject", "contentUrl": "http://example.org/this.mp3"}
+      "url": "https://1drv.ms/p/s!AsJaDBb2tSTg2XmnM1JLmtgiy2DP",
+      "name": "Presentation"
     },
     {
       "@type": "CreativeWork",
-      "associatedMedia": {"@type": "VideoObject", "contentUrl": "http://example.org/this.mp4"}
-    },
-    {
-      "@type": "CreativeWork",
-      "associatedMedia": {"@type": "ImageObject", "contentUrl": "http://example.org/this.png"}
+      "url": "https://www.youtube.com/watch?v=CD-nJzA9Xg4&t=6s",
+      "name": "Recording"
     }
   ],
   "version": "1"

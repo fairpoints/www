@@ -32,6 +32,10 @@
       "name": "Sara El-Gebali",
       "ORCID":"https://orcid.org/0000-0003-1378-5495"
     },{
+      "@type": "Person",
+      "name": "Chris Erdmann",
+      "ORCID": "https://orcid.org/0000-0003-2554-180X"
+    },{
       "@type": "Community",
       "name": "FAIRPoints",
       "url": "https://www.fairpoints.org/"
@@ -88,15 +92,13 @@
   "hasPart":[
     {
       "@type": "CreativeWork",
-      "associatedMedia": {"@type": "AudioObject", "contentUrl": "http://example.org/this.mp3"}
+      "url": "https://drive.google.com/file/d/1-rfaPT7sa5ksu6oSHkRKerVZTxLQmdT-/view?usp=sharing",
+      "name": "Presentation"
     },
     {
       "@type": "CreativeWork",
-      "associatedMedia": {"@type": "VideoObject", "contentUrl": "http://example.org/this.mp4"}
-    },
-    {
-      "@type": "CreativeWork",
-      "associatedMedia": {"@type": "ImageObject", "contentUrl": "http://example.org/this.png"}
+      "url": "https://youtu.be/1dEv5x5imBw",
+      "name": "Recording"
     }
   ],
   "version": "1"

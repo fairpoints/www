@@ -108,7 +108,7 @@
     },
     {
       "@type": "CreativeWork",
-      "associatedMedia": {"@type": "VideoObject", "contentUrl": "http://example.org/this.mp4"}
+      "associatedMedia": {"@type": "VideoObject", "contentUrl": "https://youtu.be/1dEv5x5imBw"}
     },
     {
       "@type": "CreativeWork",

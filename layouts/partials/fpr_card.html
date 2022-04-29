@@ -1,4 +1,4 @@
-<ul>
+<ol reversed>
     <h2>{{ .name }}</h2>
     <p>{{ .abstract }}</p>
     <h3>Authors</h3>
@@ -15,6 +15,14 @@
         {{ end }}
     </ul>
     <br>
+    <h4>Resources</h4>
+    <ul>
+        {{ range .hasPart }}
+        <li><a href="{{ if .ORCID}}{{.ORCID}}}{{else}}{{.url}}{{end}}">{{ .name|markdownify}}</a></li>
+        {{ end }}
+    </ul>
+    <br>
+
     <h4>FAIRPoints</h4>
     <ul>
         {{ range .teaches }}
@@ -24,3 +32,4 @@
 
     <br>
     <p>Date Published: {{ .datePublished }} <br> Version: {{ .version }}</p>
+</ol>

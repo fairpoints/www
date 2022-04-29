@@ -106,12 +106,13 @@
   ],
   "hasPart":[
     {
-      "@type": "CreativeWork",
-      "associatedMedia": {"@type": "AudioObject", "contentUrl": "http://example.org/this.mp3"}
-    },
+    "@type": "CreativeWork",
+    "url": "https://1drv.ms/p/s!AsJaDBb2tSTg2XmnM1JLmtgiy2DP",
+    "name": "Presentation"
+   },
     {
       "@type": "CreativeWork",
-      "associatedMedia": {"@type": "VideoObject", "contentUrl": "http://example.org/this.mp4"}
+      "associatedMedia": {"@type": "VideoObject", "contentUrl": "https://www.youtube.com/watch?v=CD-nJzA9Xg4&t=6s"}
     },
     {
       "@type": "CreativeWork",
