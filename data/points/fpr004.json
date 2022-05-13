@@ -77,8 +77,13 @@
   "hasPart":[
     {
       "@type": "CreativeWork",
-      "url": "https://harshp.com/research/presentations#2022-FAIRPoints-Legal-Compliance",
-      "name": "Presentation"
+      "url": "https://drive.google.com/file/d/196NRjxsza3V3YIyp1ymiZ1fVWxY6hyZn/view?usp=sharing",
+      "name": "Presentation-AGU"
+    },
+    {
+      "@type": "CreativeWork",
+      "url": "https://drive.google.com/file/d/1aN7Li_Yo2oObrzS0XyTbuWzIUWOP34xw/view?usp=sharing",
+      "name": "Presentation-SAGE"
     },
     {
       "@type": "CreativeWork",
