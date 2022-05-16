@@ -11,7 +11,7 @@
     <h3>Contributor</h3>
     <ul>
         {{ range .contributor }}
-        <li><a href="{{ if .url}}{{.url}}}{{else}}{{.name}}{{end}}">{{ .name }}</a></li>
+        <li><a href="{{ if .url}}{{.url}}{{else}}{{.name}}{{end}}">{{ .name }}</a></li>
         {{ end }}
     </ul>
     <br>
