@@ -7,20 +7,24 @@ If you would like to sign up to our event series please register [here](https://
 ## Upcoming events
 
 ----
+### FAIR4Beginners
+
+
+
+
+----
+## Previous events
+----
 ### Enhancing Sample Provenance and Experimental Reproducibility
 Lack of reliable information about sample usage, location, provenance, metadata and experimental use is a core barrier to experimental reproducibility and general FAIRification of data.  This presentation will describe how these issues are being addressed in the design and development of a sample management module within the RSpace electronic lab notebook, focusing on three specific challenges: (1) Incorporating sample data into experimental documentation; (2) Associating PIDS like IGSNs and RRIDS into sample metadata; and (3) Export of sample metadata in required formats to different domain repositories and databases.
 
 Speaker: Rory Macneil
 
 Date: May 30, 2022
-
 Time: 16:00-17:00 CEST, see in [you time zone](https://arewemeetingyet.com/Stockholm/2022-05-30/16:00/FAIRPoints-Enhancing%20Sample%20Provenance%20and%20Experimental%20Reproducibility%20#eyJ1cmwiOiJodHRwczovL3V1LXNlLnpvb20udXMvai83MTQ1NDUyNjExIn0=)
 
-**[Register](https://www.lyyti.fi/reg/fairpoints_samples)**
+**Recording** available [here](https://youtu.be/7kDTNHrav3E)
 
-----
-## Previous events
-----
 ### Things you need to know about Data Access Statements
 Data access statements (DAS), also known as data availability statements, are key elements that can be used in multiple diverse disciplines and have a huge impact in providing essential information as it outlines where and how any underlying data may be accessed and reused, listing specific restrictions (if any) and the authorization process. It is therefore integral to the FAIRification process. Join us in this talk to discover how an effective data access statement should look like!
 
