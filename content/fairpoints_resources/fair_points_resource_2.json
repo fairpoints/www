@@ -1,143 +1,134 @@
 {
-    "@context": {
-        "@vocab": "https://schema.org/",
-        "dct": "http://purl.org/dc/terms/"
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "dct": "http://purl.org/dc/terms/"
+  },
+  "@type": "LearningResource",
+  "@id": "https://www.fairpoints.org/fairpoints_resources/1",
+  "dct:conformsTo": {
+    "@id": "https://bioschemas.org/profiles/TrainingMaterial/0.9-DRAFT-2020_12_08"
+  },
+  "description": "FAIRPoints: Step by Step publishing with ResearchEquals, summary",
+  "keywords": "FAIR, Training Materials, Bioschemas, FAIRPoints, Open Publishing",
+  "name": "FAIRPoints_Point_2",
+  "about": [
+    {
+      "@type": "DefinedTerm",
+      "@id": "http://edamontology.org/data_3670",
+      "inDefinedTermSet": "http://edamontology.org",
+      "termCode": "data_3670",
+      "name": "Online course",
+      "url": "http://edamontology.org/data_3670"
     },
-    "@type": "LearningResource",
-    "@id": "https://www.fairpoints.org/fairpoints_resources/1",
-    "dct:conformsTo": {
-        "@id": "https://bioschemas.org/profiles/TrainingMaterial/0.9-DRAFT-2020_12_08"
+    {
+      "@id": "http://edamontology.org/data_3670"
+    }
+  ],
+  "abstract": "In this talk, we will explore the open source publishing platform ResearchEquals, where you can publish your entire research journey, step by step. With this, researchers get the autonomy to make all their research outputs findable, accessible, interoperable, and reusable. In this presentation, Chris Hartgerink shows how you can get started with this new publishing system and how you can help shape its future development. Speaker: Chris Hartgerink",
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "People interested in publishing their research output"
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Chris Hartgerink",
+      "identifier": "https://orcid.org/0000-0003-1050-6809"
     },
-    "description": "FAIRPoints: Step by Step publishing with ResearchEquals, summary",
-    "keywords": "FAIR, Training Materials, Bioschemas, FAIRPoints, Open Publishing",
-    "name": "FAIRPoints_Point_2",
-    "about": [
-        {
-            "@type": "DefinedTerm",
-            "@id": "http://edamontology.org/data_3670",
-            "inDefinedTermSet": "http://edamontology.org",
-            "termCode": "data_3670",
-            "name": "Online course",
-            "url": "http://edamontology.org/data_3670"
-        },
-        {
-            "@id": "http://edamontology.org/data_3670"
-        }
-    ],
-    "abstract": "In this talk, we will explore the open source publishing platform ResearchEquals, where you can publish your entire research journey, step by step. With this, researchers get the autonomy to make all their research outputs findable, accessible, interoperable, and reusable. In this presentation, Chris Hartgerink shows how you can get started with this new publishing system and how you can help shape its future development. Speaker: Chris Hartgerink",
-    "audience": {
-        "@type": "Audience",
-        "audienceType": "People interested in publishing their research output"
+    {
+      "@type": "Person",
+      "name": "Sara El-Gebali",
+      "identifier": "https://orcid.org/0000-0003-1378-5495"
     },
-    "author": [
-        {
-            "@type": "Person",
-            "name": "Chris Hartgerink",
-            "ORCID": "https://orcid.org/0000-0003-1050-6809"
-        }
-        {
-            "@type": "Person",
-            "name": "Sara El-Gebali",
-            "ORCID": "https://orcid.org/0000-0003-1378-5495"
-        },
-        {
-            "@type": "Community",
-            "name": "FAIRPoints",
-            "url": "https://www.fairpoints.org/"
-        },
-        {
-            "@type": "Person",
-            "name": "",
-            "ORCID": ""
-        },
-        {
-            "@type": "Organization",
-            "name": "",
-            "url": ""
-        }
-    ],
-    "competencyRequired": [
-        "None"
-    ],
-    "educationalLevel": "Beginner",
-    "identifier": "https://www.fairpoints.org/fairpoints_resources/",
-    "inLanguage": [
-        "en-US"
-    ],
-    "learningResourceType": [
-        "slides",
-        "recording"
-    ],
-    "license": [
-        "https://creativecommons.org/licenses/by/4.0/"
-    ],
-    "teaches": [
-        "ResearchEquals= new open access publishing platform",
-        "Publish research steps",
-        "You get the agency as a researcher to publish your own work",
-        "Publish your work, don't work to publish",
-        "Publish what you are comfortable to publish",
-        "Scholar led platform- come and cocreate",
-        "Come and co-create: https://discord.gg/SefsGJWWSw , https://github.com/libscie/ResearchEquals.com",
-        "Slides: https://1drv.ms/p/s!AsJaDBb2tSTg2XmnM1JLmtgiy2DP",
-        "Research output is not one event. It is multiple events, a journey, connected. And there is value in making such output lineage/provenance visible.",
-        "All Research output is important and has an inherent value",
-        "Digestable format is a new avenue for delivering scientific and research output",
-        "Science is a dynamic journey and should be reported as such",
-        "DOIs can be created for various formats of research outputs allowing for research that better documents the varied ways in which a plan or experiment becomes formalized",
-        "Interoperability is key to enabling a more robust publication system that recognizes all research paths/outputs."
-    ],
-    "timeRequired": "PT15M",
-    "url": "https://www.fairpoints.org/fairpoints_resources/",
-    "accessibilitySummary": "Short descriptions are present and no long descriptions are needed",
-    "contributor": [
-        {
-            "@type": "Community",
-            "name": "FAIRPoints",
-            "url": "https://www.fairpoints.org"
-        },
-        {
-            "@type": "Person",
-            "name": "",
-            "ORCID": ""
-        },
-        {
-            "@type": "Organization",
-            "name": "",
-            "url": ""
-        }
-    ],
-    "creativeWorkStatus": "active",
-    "dateCreated": "2022-02-24",
-    "dateModified": "2022-03-14",
-    "datePublished": "2022-03-14",
-    "recordedAt": [
-        {
-            "@type": "VirtualEvent",
-            "name": "Step by Step Publishing with ResearchEquals",
-            "url": "https://www.fairpoints.org/events/"
-        }
-    ],
-    "hasPart": [
-        {
-            "@type": "CreativeWork",
-            "url": "https://1drv.ms/p/s!AsJaDBb2tSTg2XmnM1JLmtgiy2DP",
-            "name": "Presentation"
-        },
-        {
-            "@type": "CreativeWork",
-            "associatedMedia": {
-                "@type": "VideoObject",
-                "contentUrl": "https://www.youtube.com/watch?v=CD-nJzA9Xg4&t=6s"
-            }
-        },
-        {
-            "@type": "CreativeWork",
-            "associatedMedia": {
-                "@type": "ImageObject",
-                "contentUrl": "http://example.org/this.png"
-            }
-        }
-    ],
-    "version": "1"
+    {
+      "@type": "Community",
+      "name": "FAIRPoints",
+      "url": "https://www.fairpoints.org/"
+    },
+    {
+      "@type": "Person",
+      "name": "",
+      "identifier": ""
+    },
+    {
+      "@type": "Organization",
+      "name": "",
+      "url": ""
+    }
+  ],
+  "competencyRequired": ["None"],
+  "educationalLevel": "Beginner",
+  "identifier": "https://www.fairpoints.org/fairpoints_resources/",
+  "inLanguage": ["en-US"],
+  "learningResourceType": ["slides", "recording"],
+  "license": ["https://creativecommons.org/licenses/by/4.0/"],
+  "teaches": [
+    "ResearchEquals= new open access publishing platform",
+    "Publish research steps",
+    "You get the agency as a researcher to publish your own work",
+    "Publish your work, don't work to publish",
+    "Publish what you are comfortable to publish",
+    "Scholar led platform- come and cocreate",
+    "Come and co-create: https://discord.gg/SefsGJWWSw , https://github.com/libscie/ResearchEquals.com",
+    "Slides: https://1drv.ms/p/s!AsJaDBb2tSTg2XmnM1JLmtgiy2DP",
+    "Research output is not one event. It is multiple events, a journey, connected. And there is value in making such output lineage/provenance visible.",
+    "All Research output is important and has an inherent value",
+    "Digestable format is a new avenue for delivering scientific and research output",
+    "Science is a dynamic journey and should be reported as such",
+    "DOIs can be created for various formats of research outputs allowing for research that better documents the varied ways in which a plan or experiment becomes formalized",
+    "Interoperability is key to enabling a more robust publication system that recognizes all research paths/outputs."
+  ],
+  "timeRequired": "PT15M",
+  "url": "https://www.fairpoints.org/fairpoints_resources/",
+  "accessibilitySummary": "Short descriptions are present and no long descriptions are needed",
+  "contributor": [
+    {
+      "@type": "Community",
+      "name": "FAIRPoints",
+      "url": "https://www.fairpoints.org"
+    },
+    {
+      "@type": "Person",
+      "name": "",
+      "identifier": ""
+    },
+    {
+      "@type": "Organization",
+      "name": "",
+      "url": ""
+    }
+  ],
+  "creativeWorkStatus": "active",
+  "dateCreated": "2022-02-24",
+  "dateModified": "2022-03-14",
+  "datePublished": "2022-03-14",
+  "recordedAt": [
+    {
+      "@type": "VirtualEvent",
+      "name": "Step by Step Publishing with ResearchEquals",
+      "url": "https://www.fairpoints.org/events/"
+    }
+  ],
+  "hasPart": [
+    {
+      "@type": "CreativeWork",
+      "url": "https://1drv.ms/p/s!AsJaDBb2tSTg2XmnM1JLmtgiy2DP",
+      "name": "Presentation"
+    },
+    {
+      "@type": "CreativeWork",
+      "associatedMedia": {
+        "@type": "VideoObject",
+        "contentUrl": "https://www.youtube.com/watch?v=CD-nJzA9Xg4&t=6s"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "associatedMedia": {
+        "@type": "ImageObject",
+        "contentUrl": "http://example.org/this.png"
+      }
+    }
+  ],
+  "version": "1"
 }
