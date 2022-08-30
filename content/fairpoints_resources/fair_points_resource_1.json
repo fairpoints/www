@@ -36,7 +36,7 @@
       "identifier": "https://orcid.org/0000-0003-1378-5495"
     },
     {
-      "@type": "Community",
+      "@type": "Organization",
       "name": "FAIRPoints",
       "url": "https://www.fairpoints.org/"
     },
@@ -90,7 +90,7 @@
   "accessibilitySummary": "Short descriptions are present and no long descriptions are needed",
   "contributor": [
     {
-      "@type": "Community",
+      "@type": "Organization",
       "name": "FAIRPoints",
       "url": "https://www.fairpoints.org"
     },
