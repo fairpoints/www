@@ -111,7 +111,7 @@
   "datePublished": "2022-03-14",
   "recordedAt": [
     {
-      "@type": "VirtualEvent",
+      "@type": "EducationEvent",
       "name": "Step by Step Publishing with ResearchEquals",
       "url": "https://www.fairpoints.org/events/"
     }
