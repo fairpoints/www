@@ -58,13 +58,17 @@ theme = "hugo-serif-theme"
               url = "/team/"
               weight = 5
   [[menu.main]]
+              name = "Champions"
+              url = "/champions/"
+              weight = 6
+  [[menu.main]]
         name = "Contact"
         url = "/contact/"
-        weight = 6
+        weight = 7
   [[menu.main]]
               name = "Participation Guidelines"
               url = "/participation_guides/"
-              weight = 7
+              weight = 8
 
   # Footer Menu
   [[menu.footer]]
