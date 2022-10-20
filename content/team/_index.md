@@ -14,4 +14,4 @@ Our team consists of a group of volunteers from diverse backgrounds across multi
 
 Email: [fairpoints@protonmail.com](mailto:fairpoints@protonmail.com)
 
-Twitter: [FAIR_Points](https://www.fairpoints.org/#:~:text=Twitter-,FAIR_Points,-NEWSLETTER%20SIGN%2DUP)
+Twitter: [FAIR_Points](https://twitter.com/FAIR_Points)
