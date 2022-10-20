@@ -8,6 +8,7 @@ If you would like to sign up to our event series please register [here](https://
 
 ----
 
+<iframe src="https://calendar.google.com/calendar/embed?src=70fd0b6927140927cd795516b0fa02fc9689837e56bd62c78575bb185d925df1%40group.calendar.google.com&ctz=Europe%2FBerlin" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ----
 ## Previous events

@@ -12,7 +12,7 @@ theme = "hugo-serif-theme"
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = true  
+      unsafe = true
 
 [params]
   # In most cases you will only want to use either one of these. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
@@ -66,10 +66,6 @@ theme = "hugo-serif-theme"
               name = "Champions"
               url = "/champions/"
               weight = 6
-  [[menu.main]]
-        name = "Contact"
-        url = "/contact/"
-        weight = 7
   [[menu.main]]
               name = "Participation Guidelines"
               url = "/participation_guides/"
