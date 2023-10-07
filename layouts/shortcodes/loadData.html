@@ -1,0 +1,2 @@
+{{ $data := getJSON (printf "data/points/%s.json" (.Get 0)) }}
+{{ partial "fpr_card.html" $data }}

@@ -1,0 +1,78 @@
+<script type="application/ld+json">
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "dct": "http://purl.org/dc/terms/"
+  },
+  "@type": "LearningResource",
+  "dct:conformsTo": {"@id": "https://bioschemas.org/profiles/TrainingMaterial/0.9-DRAFT-2020_12_08"},
+  "description": {{ .Params.Description }},
+  "keywords": {{ .Params.tags }},
+  "name": {{ .Title }},
+  "about": [
+    {
+      "@type": "DefinedTerm",
+      "@id": "http://edamontology.org/data_3670",
+      "inDefinedTermSet": "http://edamontology.org",
+      "termCode": "data_3670",
+      "name": "Online course",
+      "url": "http://edamontology.org/data_3670"
+    }, {
+    "@id": "http://edamontology.org/data_3670"
+    }
+  ],
+  "abstract": {{ .Params.Abstract }},
+  "audience": {
+    "@type": "Audience",
+    "audienceType": {{ .Params.Level }}
+  },
+
+  "competencyRequired": ["None"],
+  "educationalLevel": {{ .Params.Level }},
+  "identifier": "https://www.fairpoints.org/fairpoints_resources/",
+  "inLanguage": ["en-US"],
+  "learningResourceType": ["slides", "recording"],
+  "license": ["https://creativecommons.org/licenses/by/4.0/"],
+  "author":  [
+    {{range $author := .Params.Authors}}
+    {"name" : {{$author.name}},
+    "ORCID": {{$author.ORCID}}},
+    {{end}}
+  ],
+  "teaches": {{ .Params.Summary }},
+  "timeRequired": "PT15M",
+  "url": "https://www.fairpoints.org/fairpoints_resources/",
+  "accessibilitySummary": "Short descriptions are present and no long descriptions are needed",
+  "contributor":  [
+    {
+      "@type": "Community",
+      "name": "FAIRPoints",
+      "url": "https://www.fairpoints.org"
+    }
+  ],
+  "creativeWorkStatus": "active",
+  "dateCreated": {{ .Params.CreateDate }},
+  "dateModified": {{ .Params.Lastmod }},
+  "datePublished": {{ .Params.PublishDate }},
+  "recordedAt": [
+    {
+      "@type": "VirtualEvent",
+      "name": {{ .Params.SubTitle }},
+      "url": "{{.Site.BaseURL}}"
+    }
+  ],
+  "hasPart":[
+    {
+      "@type": "CreativeWork",
+      "url": {{.Site.BaseURL}},
+      "name": {{ .Site.Params.Recording }}
+    },
+    {
+      "@type": "CreativeWork",
+      "url": {{.Site.BaseURL}},
+      "name": {{ .Site.Params.Presentation }}
+    },
+  ],
+  "version": {{ .Site.Params.Version }}
+}
+</script>
