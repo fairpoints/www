@@ -36,9 +36,9 @@
   "author":  [
     {{range $author := .Params.Authors}}
     {"name" : {{$author.name}},
-    "ORCID": {{$author.ORCID}}},
+    "ORCID": {{$author.ORCID}}}
     {{end}}
-  ]
+  ],
   "teaches": {{ .Params.Summary }},
   "timeRequired": "PT15M",
   "url": "https://www.fairpoints.org/fairpoints_resources/",
