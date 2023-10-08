@@ -3,6 +3,6 @@
       <h2 class="fairpoints_resources">
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
       </h2>
-      <p>{{ .Summary | plainify | htmlUnescape }}</p>
+      <p>{{ .Summary | plainify | htmlUnescape | truncate 200 }}</p>
     </div>
-  </div>
+</div>
