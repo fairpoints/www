@@ -34,11 +34,12 @@
   "learningResourceType": ["slides", "recording"],
   "license": ["https://creativecommons.org/licenses/by/4.0/"],
   "author":  [
-    {{range $author := .Params.Authors}}
-    {"name" : {{$author.name}},
-    "ORCID": {{$author.ORCID}}}
-    {{end}}
-  ],
+    {{- $len := len .Params.Authors -}}
+    {{- range $index, $author := .Params.Authors -}}
+    {"name": "{{ $author.name }}",
+    "ORCID": "{{ $author.ORCID }}"}{{ if ne $index (sub $len 1) }},{{ end }}
+    {{- end -}}
+],
   "teaches": {{ .Params.Summary }},
   "timeRequired": "PT15M",
   "url": "https://www.fairpoints.org/fairpoints_resources/",
