@@ -1,5 +1,5 @@
 ---
-title: 'resource_1'
+title: 'Resource 1'
 description: 'FAIRPoints Launch event!'
 dateCreated: '2022-02-24'
 date: '2022-02-24'

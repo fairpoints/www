@@ -4504,12 +4504,12 @@ ol {
   justify-content: flex-start;
   align-items: center;
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 10px;
   overflow: hidden; }
   @media (min-width: 768px) {
     .intro {
       padding-top: 140px;
-      padding-bottom: 140px; } }
+      padding-bottom: 10px; } }
   .intro h1 {
     color: #2f2f41;
     font-size: 42px;
