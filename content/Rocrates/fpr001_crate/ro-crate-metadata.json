@@ -1,0 +1,37 @@
+{
+    "@context": "https://w3id.org/ro/crate/1.1/context",
+    "@graph": [
+        {
+            "@id": "./",
+            "@type": "Dataset",
+            "hasPart": [
+                {"@id": "fpr001.json"}, 
+                {"@id": "FAIRPoints_Launch20220128-1.pdf"} 
+            ],
+            "name": "FAIRPoints Launch event presentation",
+            "description": "This crate contains materials describing FAIRPoints launch event with all the related material",
+            "datePublished": "2022-02-24",
+            "license": { "@id": "http://spdx.org/licenses/CC-BY-4.0"},
+            "author": {"@id": "https://orcid.org/0000-0003-1378-5495"}
+        },
+        {
+            "@id": "https://orcid.org/0000-0003-1378-5495",
+            "@type": "Person", 
+            "name": "Sara El-Gebali",
+            "affiliation": "FAIRPoints"
+        },
+        {
+            "@id": "fpr001.json",
+            "@type": "LearningResource",
+            "description": "event summaries captured in bioschema training profiles",
+            "author": {"@id": "https://orcid.org/0000-0003-1378-5495"}
+        },
+        {
+            "@id": "FAIRPoints_Launch20220128-1.pdf",
+            "@type": "LearningResource",
+            "description": "description",
+            "encodingFormat": "application/pdf",
+            "author": {"@id": "https://orcid.org/0000-0003-1378-5495"}
+        }
+    ]
+}

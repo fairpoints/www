@@ -1,0 +1,95 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "dct": "http://purl.org/dc/terms/"
+  },
+  "@type": "LearningResource",
+  "@id": "https://www.fairpoints.org/fairpoints_resources/4",
+  "dct:conformsTo": {"@id": "https://bioschemas.org/profiles/TrainingMaterial/0.9-DRAFT-2020_12_08"},
+  "description": "FAIRPoints: Things you need to know about Data Access Statements",
+  "keywords": "FAIR, Training Materials, Bioschemas, FAIRPoints, Data Access, Publishing",
+  "name": "FAIRPoints_Point_4",
+  "about": [
+    {
+      "@type": "DefinedTerm",
+      "@id": "http://edamontology.org/data_3670",
+      "inDefinedTermSet": "http://edamontology.org",
+      "termCode": "data_3670",
+      "name": "Online course",
+      "url": "http://edamontology.org/data_3670"
+    }, {
+    "@id": "http://edamontology.org/data_3670"
+    }
+  ],
+  "abstract": "Data access statements (DAS), also known as data availability statements, are key elements that can be used in multiple diverse disciplines and have a huge impact in providing essential information as it outlines where and how any underlying data may be accessed and reused, listing specific restrictions (if any) and the authorization process. It is therefore integral to the FAIRification process. Join us in this talk to discover how an effective data access statement should look like!\n Speakers: Juliane Schneider & Chris Erdmann ",
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "People interested in publishing their research output"
+  },
+
+  "competencyRequired": ["None"],
+  "educationalLevel": "Beginner",
+  "identifier": "https://www.fairpoints.org/fairpoints_resources/",
+  "inLanguage": ["en-US"],
+  "learningResourceType": ["slides", "recording"],
+  "license": ["https://creativecommons.org/licenses/by/4.0/"],
+  "author":  [
+    {
+      "@type": "Person",
+      "name": "Juliane Schneider",
+      "ORCID": "https://orcid.org/0000-0002-7664-3331"
+    },
+    {
+      "@type": "Person",
+      "name": "Chris Erdmann",
+      "ORCID": "https://orcid.org/0000-0003-2554-180X"
+    }
+  ],
+  "teaches": [
+    "We need everyone’s help advancing data/software sharing policies, requirements, guidance (e.g., societies, publishers)",
+"Institutions/disciplinary services need to work together to help simplify workflows for authors (e.g., help desk, repositories) ",
+"We, the community, need to find better ways to integrate data/software best practices earlier in the research process, embed in research workflows (e.g, platforms, notebooks)",
+"Researchers are inundated with guidance, we need to streamline information as much as possible in combination with the point above (e.g, checklists)",
+"We need to demonstrate to researchers the value of sharing data/software by leveraging metadata (e.g., filtering, indexing)",
+"Data access statements should include: Description of research output in manuscript, Location and link of repo, Description of repository/funder, Conditions for access and use with link to instructions, Data DOI"
+  ],
+  "timeRequired": "PT15M",
+  "url": "https://www.fairpoints.org/fairpoints_resources/",
+  "accessibilitySummary": "Short descriptions are present and no long descriptions are needed",
+  "contributor":  [
+    {
+      "@type": "Community",
+      "name": "FAIRPoints",
+      "url": "https://www.fairpoints.org"
+    }
+  ],
+  "creativeWorkStatus": "active",
+  "dateCreated": "2022-03-22",
+  "dateModified": "2022-04-29",
+  "datePublished": "2022-04-29",
+  "recordedAt": [
+    {
+      "@type": "VirtualEvent",
+      "name": "Harmonising FAIR data sharing with Legal Compliance",
+      "url": "https://www.fairpoints.org/events/"
+    }
+  ],
+  "hasPart":[
+    {
+      "@type": "CreativeWork",
+      "url": "https://doi.org/10.5281/zenodo.6505586",
+      "name": "Presentation-AGU"
+    },
+    {
+      "@type": "CreativeWork",
+      "url": "https://drive.google.com/file/d/1aN7Li_Yo2oObrzS0XyTbuWzIUWOP34xw/view?usp=sharing",
+      "name": "Presentation-SAGE"
+    },
+    {
+      "@type": "CreativeWork",
+      "url": "https://youtu.be/rpx57qnCGx8",
+      "name": "Recording"
+    }
+  ],
+  "version": "1"
+}

@@ -1,0 +1,8 @@
+<div class="questions questions-summary">
+    <div class="questions">
+      <h2 class="questions">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </h2>
+      <p>{{ .Summary | plainify | htmlUnescape | truncate 200 }}</p>
+    </div>
+</div>

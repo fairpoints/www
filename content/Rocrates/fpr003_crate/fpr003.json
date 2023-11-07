@@ -1,0 +1,83 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "dct": "http://purl.org/dc/terms/"
+  },
+  "@type": "LearningResource",
+  "@id": "https://www.fairpoints.org/fairpoints_resources/3",
+  "dct:conformsTo": {"@id": "https://bioschemas.org/profiles/TrainingMaterial/0.9-DRAFT-2020_12_08"},
+  "description": "FAIRPoints: Harmonising FAIR data sharing with Legal Compliance",
+  "keywords": "FAIR, Training Materials, Bioschemas, FAIRPoints, GDPR, Compliance, Data Protection",
+  "name": "FAIRPoints_Point_3",
+  "about": [
+    {
+      "@type": "DefinedTerm",
+      "@id": "http://edamontology.org/data_3670",
+      "inDefinedTermSet": "http://edamontology.org",
+      "termCode": "data_3670",
+      "name": "Online course",
+      "url": "http://edamontology.org/data_3670"
+    }, {
+    "@id": "http://edamontology.org/data_3670"
+    }
+  ],
+  "abstract": "FAIR mechanisms have pioneered a new paradigm of making data discoverable, accessible, and reusable. At the same time, a new wave of privacy and data protection laws (including GDPR) around the world is regulating how personal data is shared responsibly. This talk explores the intersection between the two communities and discusses how each can help the other. In particular, it focuses on how we can utilise FAIR metadata and mechanisms to ensure data is shared and used legally while also increasing its reusability. Conversely, it also takes a look at what FAIR principles can do for improving how we deal with legal compliance.\n Speaker: Harshvardhan J. Pandit ",
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "People interested in data protection and interoperability"
+  },
+
+  "competencyRequired": ["None"],
+  "educationalLevel": "Beginner",
+  "identifier": "https://www.fairpoints.org/fairpoints_resources/",
+  "inLanguage": ["en-US"],
+  "learningResourceType": ["slides", "recording"],
+  "license": ["https://creativecommons.org/licenses/by/4.0/"],
+  "author":  [
+    {
+      "@type": "Person",
+      "name": "Harshvardhan J. Pandit",
+      "Website": "https://harshp.com/research"
+    }
+  ],
+  "teaches": [
+    "Quantifying legal requirements for data sharing for domain / use case",
+"Aligning legal requirements with FAIR workflows - which laws? Which jurisdictions?",
+"Creating machine-readable vocabularies for policies - generic -> specific",
+"Developing new FAIR workflows based on legal actors/policies"
+  ],
+  "timeRequired": "PT15M",
+  "url": "https://www.fairpoints.org/fairpoints_resources/",
+  "accessibilitySummary": "Short descriptions are present and no long descriptions are needed",
+  "contributor":  [
+    {
+      "@type": "Community",
+      "name": "FAIRPoints",
+      "url": "https://www.fairpoints.org"
+    }
+  ],
+  "creativeWorkStatus": "active",
+  "dateCreated": "2022-03-22",
+  "dateModified": "2022-04-29",
+  "datePublished": "2022-04-29",
+  "recordedAt": [
+    {
+      "@type": "VirtualEvent",
+      "name": "Harmonising FAIR data sharing with Legal Compliance",
+      "url": "https://www.fairpoints.org/events/"
+    }
+  ],
+  "hasPart":[
+    {
+      "@type": "CreativeWork",
+      "url": "https://harshp.com/research/presentations#2022-FAIRPoints-Legal-Compliance",
+      "name": "Presentation"
+    },
+    {
+      "@type": "CreativeWork",
+      "url": "https://www.youtube.com/watch?v=fTEw6K8YSIQ",
+      "name": "Recording"
+    }
+  ],
+  "version": "1"
+}

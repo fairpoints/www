@@ -51,9 +51,13 @@ theme = "hugo-serif-theme"
           url = "/events/"
           weight = 2
   [[menu.main]]
+        name = "Questions & Answers"
+        url = "/Questions/"
+        weight = 4
+  [[menu.main]]
         name = "FAIRPoints resources"
         url = "/fairpoints_resources/"
-        weight = 4
+        weight = 3
   [[menu.main]]
               name = "Team"
               url = "/team/"
