@@ -1,9 +1,22 @@
 {
     "@context": "https://w3id.org/ro/crate/1.1/context",
     "@graph": [
-        {
-            "@id": "./",
-            "@type": "Dataset",
+      {
+        "@id": "ro-crate-metadata.json",
+        "@type": "CreativeWork",
+        "conformsTo": {
+          "@id": "https://w3id.org/ro/crate/1.1"
+        },
+        "about": {
+          "@id": "./"
+        }
+      },
+      {
+        "@id": "./",
+        "@type": [
+          "Dataset",
+          "LearningResource"
+        ],
             "hasPart": [
                 {"@id": "fpr001.json"}, 
                 {"@id": "FAIRPoints_Launch20220128-1.pdf"} 
@@ -24,7 +37,15 @@
             "@id": "fpr001.json",
             "@type": "LearningResource",
             "description": "event summaries captured in bioschema training profiles",
-            "author": {"@id": "https://orcid.org/0000-0003-1378-5495"}
+            "author": {"@id": "https://orcid.org/0000-0003-1378-5495"},
+             "encodingFormat": "application/ld+json",
+            "conformsTo": {"@id": "https://bioschemas.org/profiles/TrainingMaterial/0.9-DRAFT-2020_12_08"}
+       },
+      	{"@id": "https://bioschemas.org/profiles/TrainingMaterial/0.9-DRAFT-2020_12_08",
+        "@type": "CreativeWork",
+        "name":"Bioschemas TrainingMaterial DRAFT Profile",
+         "version": "0.9DRAFT-2020_12_08"
+    
         },
         {
             "@id": "FAIRPoints_Launch20220128-1.pdf",
